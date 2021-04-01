@@ -1,0 +1,10 @@
+/target
+.idea
+
+/Cargo.lock
+
+# Generated.
+/server/getfortune_bg.wasm.d.ts
+/server/getfortune_bg.wasm
+/server/getfortune.js
+/server/getfortune.d.ts
